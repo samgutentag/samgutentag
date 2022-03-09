@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **samgutentag/samgutentag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+My name is Sam Gutentag, I am a Developer Support Engineer currently working at Penumbra, Inc on the REAL Immersive System.
