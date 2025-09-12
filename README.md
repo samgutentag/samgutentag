@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   3 mins          ███████████████████▒░░░░░   77.47 %
+YAML       1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
 ```
 
 <!--END_SECTION:waka-->
