@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
