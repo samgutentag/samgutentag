@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 10 October 2025
+From: 12 September 2025 - To: 12 October 2025
 
-Markdown           1 hr 59 mins    ███████░░░░░░░░░░░░░░░░░░   28.28 %
-YAML               1 hr 32 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-Python             1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-TypeScript         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Other              33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Markdown           1 hr 55 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+YAML               1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+Python             1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Other              58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+TypeScript         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 ```
 
 <!--END_SECTION:waka-->
