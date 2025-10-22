@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2025 - To: 19 October 2025
+From: 20 September 2025 - To: 20 October 2025
 
 Markdown     1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
 JavaScript   1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
