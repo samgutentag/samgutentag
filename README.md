@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2025 - To: 01 November 2025
+From: 04 October 2025 - To: 03 November 2025
 
-Other        1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-JavaScript   1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-Markdown     36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-TypeScript   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Python       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Other        1 hr 24 mins    ████████░░░░░░░░░░░░░░░░░   32.17 %
+JavaScript   1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   27.45 %
+TypeScript   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Markdown     27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+CSV          22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
 ```
 
 <!--END_SECTION:waka-->
