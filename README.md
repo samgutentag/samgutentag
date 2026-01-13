@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 10 January 2026
+From: 12 December 2025 - To: 11 January 2026
 
-TypeScript   2 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.26 %
-SCSS         1 hr 25 mins    ██████░░░░░░░░░░░░░░░░░░░   24.31 %
-Other        54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+TypeScript   2 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.23 %
+SCSS         1 hr 25 mins    ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+Other        54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
 nvmrc        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
