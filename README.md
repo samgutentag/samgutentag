@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 25 January 2026
+From: 27 December 2025 - To: 26 January 2026
 
 TypeScript   2 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.15 %
 Other        1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
