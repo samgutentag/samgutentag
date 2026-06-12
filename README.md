@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
 <!--START_SECTION:waka-->
 
+<!--
 ```txt
 From: 11 May 2026 - To: 10 June 2026
 
@@ -29,5 +30,6 @@ HTML               26 hrs 49 mins        ████░░░░░░░░░
 MDX                14 hrs 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
 Python             14 hrs 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
 ```
+-->
 
 <!--END_SECTION:waka-->
