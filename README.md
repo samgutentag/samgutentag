@@ -1,35 +1,28 @@
-# Hi there 👋
+# Sam Gutentag
 
-> Checkout more of my work at [gutentag.world](https://www.gutentag.world)
+DevRel Engineer. I build agentic developer tooling and write about it, then build a
+map or wire up a sensor when I should probably be sleeping.
 
-<!--
-**samgutentag/samgutentag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of what I make lives at [gutentag.world](https://www.gutentag.world). The
+how-and-why ends up on [the blog](https://www.gutentag.world/blog).
 
-Here are some ideas to get you started:
+### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Agentic dev tooling.** Multi-agent workflows, Claude Code skills, and MCP servers
+  that do real work instead of demos.
+- **Interactive maps.** Santa Barbara [BCycle stations](https://bcycle.gutentag.world)
+  live off the GBFS feed, plus the food-week maps
+  ([sandwich](http://sbsandwichweekmap.com), [coffee](https://sbcoffeeweekmap.com),
+  [burger](https://sbburgerweekmap.com)) all running off one config-driven template.
+- **Home and hardware.** A Raspberry Pi fleet, Home Assistant, Zigbee, and a corded
+  landline that reads my kid a slowed-down weather report.
 
-<!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
+### What I care about
+
+Documentation as a first-class artifact, linear git history, and tools that earn their
+keep. Mostly I care whether the thing actually works when someone else tries it.
+
+📫 More at [gutentag.world](https://www.gutentag.world)
+
 <!--START_SECTION:waka-->
-
-<!--
-```txt
-From: 11 May 2026 - To: 10 June 2026
-
-Markdown           63 hrs 12 mins        █████████▒░░░░░░░░░░░░░░░   37.26 %
-TypeScript         31 hrs 29 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-HTML               26 hrs 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-MDX                14 hrs 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Python             14 hrs 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-```
--->
-
 <!--END_SECTION:waka-->
